@@ -1,1 +1,1 @@
-console.log("this is working just fine....")
+alert("Welcome to the test site. This works just as expected.");
